@@ -1,0 +1,142 @@
+city,country,temp_f,temp_c,temp_tier,wind_mph,condition_clean,local_time_raw,source_url
+Accra,Ghana,84,28.9,Warm / Hot (75°F+),14,Not Listed,Thu 8:19 pm,https://www.timeanddate.com/weather/ghana/accra
+Addis Ababa,Ethiopia,63,17.2,Mild (50–74°F),6,Not Listed,Thu 11:19 pm,https://www.timeanddate.com/weather/ethiopia/addis-ababa
+Adelaide,Australia,71,21.7,Mild (50–74°F),0,Not Listed,Fri 6:49 am,https://www.timeanddate.com/weather/australia/adelaide
+Algiers,Algeria,63,17.2,Mild (50–74°F),0,Not Listed,Thu 9:19 pm,https://www.timeanddate.com/weather/algeria/algiers
+Almaty,Kazakhstan,50,10.0,Cold / Chilly (<50°F),10,Not Listed,Fri 1:19 am,https://www.timeanddate.com/weather/kazakstan/almaty
+Amman,Jordan,61,16.1,Mild (50–74°F),0,Not Listed,Thu 11:19 pm,https://www.timeanddate.com/weather/jordan/amman
+Amsterdam,Netherlands,30,-1.1,Cold / Chilly (<50°F),10,Not Listed,Thu 9:19 pm,https://www.timeanddate.com/weather/netherlands/amsterdam
+Anadyr,Russia,32,0.0,Cold / Chilly (<50°F),20,Not Listed,Fri 8:19 am,https://www.timeanddate.com/weather/russia/anadyr
+Anchorage,USA,18,-7.8,Cold / Chilly (<50°F),0,Not Listed,Thu 11:19 am,https://www.timeanddate.com/weather/usa/anchorage
+Ankara,Turkey,30,-1.1,Cold / Chilly (<50°F),2,Not Listed,Thu 11:19 pm,https://www.timeanddate.com/weather/turkey/ankara
+Antananarivo,Madagascar,66,18.9,Mild (50–74°F),9,Not Listed,Thu 11:19 pm,https://www.timeanddate.com/weather/madagascar/antananarivo
+Asuncion,Paraguay,88,31.1,Warm / Hot (75°F+),7,Not Listed,Thu 5:19 pm,https://www.timeanddate.com/weather/paraguay/asuncion
+Athens,Greece,64,17.8,Mild (50–74°F),,Not Listed,Thu 10:19 pm,https://www.timeanddate.com/weather/greece/athens
+Atlanta,USA,44,6.7,Cold / Chilly (<50°F),10,Not Listed,Thu 3:19 pm,https://www.timeanddate.com/weather/usa/atlanta
+Auckland,New Zealand,64,17.8,Mild (50–74°F),7,Not Listed,Fri 9:19 am,https://www.timeanddate.com/weather/new-zealand/auckland
+Bangkok,Thailand,81,27.2,Warm / Hot (75°F+),0,Not Listed,Fri 3:19 am,https://www.timeanddate.com/weather/thailand/bangkok
+Barcelona,Spain,50,10.0,Cold / Chilly (<50°F),9,Not Listed,Thu 9:19 pm,https://www.timeanddate.com/weather/spain/barcelona
+Beijing,China,48,8.9,Cold / Chilly (<50°F),10,Not Listed,Fri 4:19 am,https://www.timeanddate.com/weather/china/beijing
+Beirut,Lebanon,56,13.3,Mild (50–74°F),0,Not Listed,Thu 10:19 pm,https://www.timeanddate.com/weather/lebanon/beirut
+Belgrade,Serbia,41,5.0,Cold / Chilly (<50°F),6,Not Listed,Thu 9:19 pm,https://www.timeanddate.com/weather/serbia/belgrade
+Bengaluru,India,70,21.1,Mild (50–74°F),8,Not Listed,Fri 1:49 am,https://www.timeanddate.com/weather/india/bengaluru
+Berlin,Germany,27,-2.8,Cold / Chilly (<50°F),8,Not Listed,Thu 9:19 pm,https://www.timeanddate.com/weather/germany/berlin
+Bogota,Colombia,64,17.8,Mild (50–74°F),9,Not Listed,Thu 3:19 pm,https://www.timeanddate.com/weather/colombia/bogota
+Boston,USA,45,7.2,Cold / Chilly (<50°F),25,Not Listed,Thu 3:19 pm,https://www.timeanddate.com/weather/usa/boston
+Brasilia,Brazil,81,27.2,Warm / Hot (75°F+),2,Not Listed,Thu 5:19 pm,https://www.timeanddate.com/weather/brazil/brasilia
+Brisbane,Australia,70,21.1,Mild (50–74°F),2,Not Listed,Fri 6:19 am,https://www.timeanddate.com/weather/australia/brisbane
+Brussels,Belgium,30,-1.1,Cold / Chilly (<50°F),5,Not Listed,Thu 9:19 pm,https://www.timeanddate.com/weather/belgium/brussels
+Bucharest,Romania,39,3.9,Cold / Chilly (<50°F),2,Not Listed,Thu 10:19 pm,https://www.timeanddate.com/weather/romania/bucharest
+Budapest,Hungary,36,2.2,Cold / Chilly (<50°F),2,Not Listed,Thu 9:19 pm,https://www.timeanddate.com/weather/hungary/budapest
+Buenos Aires,Argentina,73,22.8,Mild (50–74°F),10,Not Listed,Thu 5:19 pm,https://www.timeanddate.com/weather/argentina/buenos-aires
+Cairo,Egypt,64,17.8,Mild (50–74°F),9,Not Listed,Thu 10:19 pm,https://www.timeanddate.com/weather/egypt/cairo
+Calgary,Canada,45,7.2,Cold / Chilly (<50°F),7,Not Listed,Thu 2:19 pm,https://www.timeanddate.com/weather/canada/calgary
+Canberra,Australia,64,17.8,Mild (50–74°F),6,Not Listed,Fri 7:19 am,https://www.timeanddate.com/weather/australia/canberra
+Cape Town,South Africa,64,17.8,Mild (50–74°F),17,Not Listed,Thu 10:19 pm,https://www.timeanddate.com/weather/south-africa/cape-town
+Caracas,Venezuela,88,31.1,Warm / Hot (75°F+),7,Not Listed,Thu 4:19 pm,https://www.timeanddate.com/weather/venezuela/caracas
+Casablanca,Morocco,61,16.1,Mild (50–74°F),3,Not Listed,Thu 8:19 pm,https://www.timeanddate.com/weather/morocco/casablanca
+Chicago,USA,44,6.7,Cold / Chilly (<50°F),21,Not Listed,Thu 2:19 pm,https://www.timeanddate.com/weather/usa/chicago
+Copenhagen,Denmark,30,-1.1,Cold / Chilly (<50°F),9,Not Listed,Thu 9:19 pm,https://www.timeanddate.com/weather/denmark/copenhagen
+Dallas,USA,54,12.2,Mild (50–74°F),14,Not Listed,Thu 2:19 pm,https://www.timeanddate.com/weather/usa/dallas
+Dar es Salaam,Tanzania,81,27.2,Warm / Hot (75°F+),6,Not Listed,Thu 11:19 pm,https://www.timeanddate.com/weather/tanzania/dar-es-salaam
+Darwin,Australia,82,27.8,Warm / Hot (75°F+),2,Not Listed,Fri 5:49 am,https://www.timeanddate.com/weather/australia/darwin
+Denver,USA,61,16.1,Mild (50–74°F),7,Not Listed,Thu 1:19 pm,https://www.timeanddate.com/weather/usa/denver
+Detroit,USA,39,3.9,Cold / Chilly (<50°F),16,Not Listed,Thu 3:19 pm,https://www.timeanddate.com/weather/usa/detroit
+Dhaka,Bangladesh,69,20.6,Mild (50–74°F),0,Not Listed,Fri 2:19 am,https://www.timeanddate.com/weather/bangladesh/dhaka
+Doha,Qatar,75,23.9,Warm / Hot (75°F+),5,Not Listed,Thu 11:19 pm,https://www.timeanddate.com/weather/qatar/doha
+Dubai,United Arab Emirates,81,27.2,Warm / Hot (75°F+),5,Not Listed,Fri 12:19 am,https://www.timeanddate.com/weather/united-arab-emirates/dubai
+Dublin,Ireland,46,7.8,Cold / Chilly (<50°F),18,Not Listed,Thu 8:19 pm,https://www.timeanddate.com/weather/ireland/dublin
+Edmonton,Canada,39,3.9,Cold / Chilly (<50°F),12,Not Listed,Thu 2:19 pm,https://www.timeanddate.com/weather/canada/edmonton
+Frankfurt,Germany,34,1.1,Cold / Chilly (<50°F),13,Not Listed,Thu 9:19 pm,https://www.timeanddate.com/weather/germany/frankfurt
+Guatemala City,Guatemala,72,22.2,Mild (50–74°F),21,Not Listed,Thu 2:19 pm,https://www.timeanddate.com/weather/guatemala/guatemala-city
+Halifax,Canada,37,2.8,Cold / Chilly (<50°F),3,Not Listed,Thu 4:19 pm,https://www.timeanddate.com/weather/canada/halifax
+Hanoi,Vietnam,64,17.8,Mild (50–74°F),5,Not Listed,Fri 3:19 am,https://www.timeanddate.com/weather/vietnam/hanoi
+Harare,Zimbabwe,73,22.8,Mild (50–74°F),16,Not Listed,Thu 10:19 pm,https://www.timeanddate.com/weather/zimbabwe/harare
+Havana,Cuba,79,26.1,Warm / Hot (75°F+),12,Not Listed,Thu 4:19 pm,https://www.timeanddate.com/weather/cuba/havana
+Helsinki,Finland,25,-3.9,Cold / Chilly (<50°F),12,Not Listed,Thu 10:19 pm,https://www.timeanddate.com/weather/finland/helsinki
+Hong Kong,Hong Kong,68,20.0,Mild (50–74°F),3,Not Listed,Fri 4:19 am,https://www.timeanddate.com/weather/hong-kong/hong-kong
+Honolulu,USA,72,22.2,Mild (50–74°F),23,Not Listed,Thu 10:19 am,https://www.timeanddate.com/weather/usa/honolulu
+Houston,USA,59,15.0,Mild (50–74°F),10,Not Listed,Thu 2:19 pm,https://www.timeanddate.com/weather/usa/houston
+Indianapolis,USA,43,6.1,Cold / Chilly (<50°F),40,Not Listed,Thu 3:19 pm,https://www.timeanddate.com/weather/usa/indianapolis
+Islamabad,Pakistan,56,13.3,Mild (50–74°F),0,Not Listed,Fri 1:19 am,https://www.timeanddate.com/weather/pakistan/islamabad
+Istanbul,Turkey,57,13.9,Mild (50–74°F),10,Not Listed,Thu 11:19 pm,https://www.timeanddate.com/weather/turkey/istanbul
+Jakarta,Indonesia,78,25.6,Warm / Hot (75°F+),4,Not Listed,Fri 3:19 am,https://www.timeanddate.com/weather/indonesia/jakarta
+Jerusalem,Israel,65,18.3,Mild (50–74°F),2,Not Listed,Thu 10:19 pm,https://www.timeanddate.com/weather/israel/jerusalem
+Johannesburg,South Africa,68,20.0,Mild (50–74°F),11,Not Listed,Thu 10:19 pm,https://www.timeanddate.com/weather/south-africa/johannesburg
+Kabul,Afghanistan,55,12.8,Mild (50–74°F),5,Not Listed,Fri 12:49 am,https://www.timeanddate.com/weather/afghanistan/kabul
+Karachi,Pakistan,72,22.2,Mild (50–74°F),3,Not Listed,Fri 1:19 am,https://www.timeanddate.com/weather/pakistan/karachi
+Kathmandu,Nepal,50,10.0,Cold / Chilly (<50°F),2,Not Listed,Fri 2:04 am,https://www.timeanddate.com/weather/nepal/kathmandu
+Khartoum,Sudan,77,25.0,Warm / Hot (75°F+),8,Not Listed,Thu 10:19 pm,https://www.timeanddate.com/weather/sudan/khartoum
+Kingston,Jamaica,88,31.1,Warm / Hot (75°F+),29,Not Listed,Thu 3:19 pm,https://www.timeanddate.com/weather/jamaica/kingston
+Kinshasa,Congo Dem. Rep.,77,25.0,Warm / Hot (75°F+),9,Not Listed,Thu 9:19 pm,https://www.timeanddate.com/weather/congo-demrep/kinshasa
+Kiritimati,Kiribati,81,27.2,Warm / Hot (75°F+),3,Not Listed,Fri 10:19 am,https://www.timeanddate.com/weather/kiribati/kiritimati
+Kolkata,India,68,20.0,Mild (50–74°F),5,Not Listed,Fri 1:49 am,https://www.timeanddate.com/weather/india/kolkata
+Kuala Lumpur,Malaysia,79,26.1,Warm / Hot (75°F+),1,Not Listed,Fri 4:19 am,https://www.timeanddate.com/weather/malaysia/kuala-lumpur
+Kuwait City,Kuwait,81,27.2,Warm / Hot (75°F+),18,Not Listed,Thu 11:19 pm,https://www.timeanddate.com/weather/kuwait/kuwait-city
+Kyiv,Ukraine,30,-1.1,Cold / Chilly (<50°F),4,Not Listed,Thu 10:19 pm,https://www.timeanddate.com/weather/ukraine/kyiv
+La Paz,Bolivia,58,14.4,Mild (50–74°F),20,Not Listed,Thu 4:19 pm,https://www.timeanddate.com/weather/bolivia/la-paz
+Lagos,Nigeria,84,28.9,Warm / Hot (75°F+),6,Not Listed,Thu 9:19 pm,https://www.timeanddate.com/weather/nigeria/lagos
+Lahore,Pakistan,61,16.1,Mild (50–74°F),0,Not Listed,Fri 1:19 am,https://www.timeanddate.com/weather/pakistan/lahore
+Las Vegas,USA,59,15.0,Mild (50–74°F),9,Not Listed,Thu 12:19 pm,https://www.timeanddate.com/weather/usa/las-vegas
+Lima,Peru,85,29.4,Warm / Hot (75°F+),27,Not Listed,Thu 3:20 pm,https://www.timeanddate.com/weather/peru/lima
+Lisbon,Portugal,55,12.8,Mild (50–74°F),5,Not Listed,Thu 8:20 pm,https://www.timeanddate.com/weather/portugal/lisbon
+London,United Kingdom,37,2.8,Cold / Chilly (<50°F),7,Not Listed,Thu 8:20 pm,https://www.timeanddate.com/weather/uk/london
+Los Angeles,USA,80,26.7,Warm / Hot (75°F+),0,Not Listed,Thu 12:20 pm,https://www.timeanddate.com/weather/usa/los-angeles
+Madrid,Spain,41,5.0,Cold / Chilly (<50°F),0,Not Listed,Thu 9:20 pm,https://www.timeanddate.com/weather/spain/madrid
+Managua,Nicaragua,95,35.0,Warm / Hot (75°F+),23,Not Listed,Thu 2:20 pm,https://www.timeanddate.com/weather/nicaragua/managua
+Manila,Philippines,77,25.0,Warm / Hot (75°F+),0,Not Listed,Fri 4:20 am,https://www.timeanddate.com/weather/philippines/manila
+Melbourne,Australia,64,17.8,Mild (50–74°F),6,Not Listed,Fri 7:20 am,https://www.timeanddate.com/weather/australia/melbourne
+Mexico City,Mexico,64,17.8,Mild (50–74°F),9,Not Listed,Thu 2:20 pm,https://www.timeanddate.com/weather/mexico/mexico-city
+Miami,USA,77,25.0,Warm / Hot (75°F+),14,Not Listed,Thu 3:20 pm,https://www.timeanddate.com/weather/usa/miami
+Minneapolis,USA,36,2.2,Cold / Chilly (<50°F),9,Not Listed,Thu 2:20 pm,https://www.timeanddate.com/weather/usa/minneapolis
+Minsk,Belarus,30,-1.1,Cold / Chilly (<50°F),3,Not Listed,Thu 11:20 pm,https://www.timeanddate.com/weather/belarus/minsk
+Montevideo,Uruguay,72,22.2,Mild (50–74°F),13,Not Listed,Thu 5:20 pm,https://www.timeanddate.com/weather/uruguay/montevideo
+Montréal,Canada,34,1.1,Cold / Chilly (<50°F),16,Not Listed,Thu 3:20 pm,https://www.timeanddate.com/weather/canada/montreal
+Moscow,Russia,27,-2.8,Cold / Chilly (<50°F),7,Not Listed,Thu 11:20 pm,https://www.timeanddate.com/weather/russia/moscow
+Mumbai,India,85,29.4,Warm / Hot (75°F+),4,Not Listed,Fri 1:50 am,https://www.timeanddate.com/weather/india/mumbai
+Nairobi,Kenya,66,18.9,Mild (50–74°F),12,Not Listed,Thu 11:20 pm,https://www.timeanddate.com/weather/kenya/nairobi
+Nassau,Bahamas,81,27.2,Warm / Hot (75°F+),10,Not Listed,Thu 3:20 pm,https://www.timeanddate.com/weather/bahamas/nassau
+New Delhi,India,56,13.3,Mild (50–74°F),0,Not Listed,Fri 1:50 am,https://www.timeanddate.com/weather/india/new-delhi
+New Orleans,USA,54,12.2,Mild (50–74°F),18,Not Listed,Thu 2:20 pm,https://www.timeanddate.com/weather/usa/new-orleans
+New York,USA,43,6.1,Cold / Chilly (<50°F),20,Not Listed,Thu 3:20 pm,https://www.timeanddate.com/weather/usa/new-york
+Oslo,Norway,14,-10.0,Cold / Chilly (<50°F),5,Not Listed,Thu 9:20 pm,https://www.timeanddate.com/weather/norway/oslo
+Ottawa,Canada,36,2.2,Cold / Chilly (<50°F),16,Not Listed,Thu 3:20 pm,https://www.timeanddate.com/weather/canada/ottawa
+Paris,France,36,2.2,Cold / Chilly (<50°F),2,Not Listed,Thu 9:20 pm,https://www.timeanddate.com/weather/france/paris
+Perth,Australia,55,12.8,Mild (50–74°F),8,Not Listed,Fri 4:20 am,https://www.timeanddate.com/weather/australia/perth
+Philadelphia,USA,47,8.3,Cold / Chilly (<50°F),25,Not Listed,Thu 3:20 pm,https://www.timeanddate.com/weather/usa/philadelphia
+Phoenix,USA,76,24.4,Warm / Hot (75°F+),10,Not Listed,Thu 1:20 pm,https://www.timeanddate.com/weather/usa/phoenix
+Prague,Czechia,28,-2.2,Cold / Chilly (<50°F),5,Not Listed,Thu 9:20 pm,https://www.timeanddate.com/weather/czech-republic/prague
+Reykjavik,Iceland,45,7.2,Cold / Chilly (<50°F),23,Not Listed,Thu 8:20 pm,https://www.timeanddate.com/weather/iceland/reykjavik
+Rio de Janeiro,Brazil,77,25.0,Warm / Hot (75°F+),17,Not Listed,Thu 5:20 pm,https://www.timeanddate.com/weather/brazil/rio-de-janeiro
+Riyadh,Saudi Arabia,66,18.9,Mild (50–74°F),2,Not Listed,Thu 11:20 pm,https://www.timeanddate.com/weather/saudi-arabia/riyadh
+Rome,Italy,54,12.2,Mild (50–74°F),6,Not Listed,Thu 9:20 pm,https://www.timeanddate.com/weather/italy/rome
+Salt Lake City,USA,47,8.3,Cold / Chilly (<50°F),3,Not Listed,Thu 1:20 pm,https://www.timeanddate.com/weather/usa/salt-lake-city
+San Francisco,USA,59,15.0,Mild (50–74°F),5,Not Listed,Thu 12:20 pm,https://www.timeanddate.com/weather/usa/san-francisco
+San Juan,Puerto Rico,88,31.1,Warm / Hot (75°F+),16,Not Listed,Thu 4:20 pm,https://www.timeanddate.com/weather/puerto-rico/san-juan
+San Salvador,El Salvador,86,30.0,Warm / Hot (75°F+),8,Not Listed,Thu 2:20 pm,https://www.timeanddate.com/weather/el-salvador/san-salvador
+Santiago,Chile,82,27.8,Warm / Hot (75°F+),18,Not Listed,Thu 5:20 pm,https://www.timeanddate.com/weather/chile/santiago
+Santo Domingo,Dominican Republic,87,30.6,Warm / Hot (75°F+),0,Not Listed,Thu 4:20 pm,https://www.timeanddate.com/weather/dominican-republic/santo-domingo
+São Paulo,Brazil,64,17.8,Mild (50–74°F),12,Not Listed,Thu 5:20 pm,https://www.timeanddate.com/weather/brazil/sao-paulo
+Seattle,USA,53,11.7,Mild (50–74°F),9,Not Listed,Thu 12:20 pm,https://www.timeanddate.com/weather/usa/seattle
+Seoul,South Korea,46,7.8,Cold / Chilly (<50°F),8,Not Listed,Fri 5:20 am,https://www.timeanddate.com/weather/south-korea/seoul
+Shanghai,China,48,8.9,Cold / Chilly (<50°F),1,Not Listed,Fri 4:20 am,https://www.timeanddate.com/weather/china/shanghai
+Singapore,Singapore,82,27.8,Warm / Hot (75°F+),2,Not Listed,Fri 4:20 am,https://www.timeanddate.com/weather/singapore/singapore
+Sofia,Bulgaria,43,6.1,Cold / Chilly (<50°F),2,Not Listed,Thu 10:20 pm,https://www.timeanddate.com/weather/bulgaria/sofia
+St. John's,Canada,34,1.1,Cold / Chilly (<50°F),17,Not Listed,Thu 4:50 pm,https://www.timeanddate.com/weather/canada/st-johns
+Stockholm,Sweden,25,-3.9,Cold / Chilly (<50°F),1,Not Listed,Thu 9:20 pm,https://www.timeanddate.com/weather/sweden/stockholm
+Suva,Fiji,75,23.9,Warm / Hot (75°F+),11,Not Listed,Fri 8:20 am,https://www.timeanddate.com/weather/fiji/suva
+Sydney,Australia,72,22.2,Mild (50–74°F),8,Not Listed,Fri 7:20 am,https://www.timeanddate.com/weather/australia/sydney
+Taipei,Taiwan,66,18.9,Mild (50–74°F),1,Not Listed,Fri 4:20 am,https://www.timeanddate.com/weather/taiwan/taipei
+Tallinn,Estonia,32,0.0,Cold / Chilly (<50°F),6,Not Listed,Thu 10:20 pm,https://www.timeanddate.com/weather/estonia/tallinn
+Tashkent,Uzbekistan,49,9.4,Cold / Chilly (<50°F),2,Not Listed,Fri 1:20 am,https://www.timeanddate.com/weather/uzbekistan/tashkent
+Tegucigalpa,Honduras,73,22.8,Mild (50–74°F),18,Not Listed,Thu 2:20 pm,https://www.timeanddate.com/weather/honduras/tegucigalpa
+Tokyo,Japan,46,7.8,Cold / Chilly (<50°F),2,Not Listed,Fri 5:20 am,https://www.timeanddate.com/weather/japan/tokyo
+Toronto,Canada,41,5.0,Cold / Chilly (<50°F),13,Not Listed,Thu 3:20 pm,https://www.timeanddate.com/weather/canada/toronto
+Vancouver,Canada,55,12.8,Mild (50–74°F),14,Not Listed,Thu 1:20 pm,https://www.timeanddate.com/weather/canada/vancouver
+Vienna,Austria,32,0.0,Cold / Chilly (<50°F),12,Not Listed,Thu 9:20 pm,https://www.timeanddate.com/weather/austria/vienna
+Warsaw,Poland,27,-2.8,Cold / Chilly (<50°F),8,Not Listed,Thu 9:20 pm,https://www.timeanddate.com/weather/poland/warsaw
+Washington DC,USA,53,11.7,Mild (50–74°F),25,Not Listed,Thu 3:20 pm,https://www.timeanddate.com/weather/usa/washington-dc
+Winnipeg,Canada,37,2.8,Cold / Chilly (<50°F),5,Not Listed,Thu 3:20 pm,https://www.timeanddate.com/weather/canada/winnipeg
+Yangon,Myanmar,79,26.1,Warm / Hot (75°F+),0,Not Listed,Fri 2:50 am,https://www.timeanddate.com/weather/myanmar/yangon
+Zagreb,Croatia,36,2.2,Cold / Chilly (<50°F),3,Not Listed,Thu 9:20 pm,https://www.timeanddate.com/weather/croatia/zagreb
+Zürich,Switzerland,32,0.0,Cold / Chilly (<50°F),5,Not Listed,Thu 9:20 pm,https://www.timeanddate.com/weather/switzerland/zurich
